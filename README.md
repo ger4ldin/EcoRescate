@@ -1,4 +1,4 @@
-# 🎮 [EcoRescate]
+# 🎮 EcoRescate
 
 A 2D video game developed in the Godot Engine where the player must overcome levels filled with obstacles and enemies to achieve victory. Designed with a retro aesthetic and classic gameplay mechanics.
 
